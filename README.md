@@ -1,5 +1,5 @@
 
-                                                     ## KickStart My Chart
+                                                     # KickStart My Chart
 
 ## Background
 
